@@ -1,7 +1,6 @@
 # csvweb3pytx
 
-UNTESTED 
-WTF DONT USE THIS
+the web3 interface is untested
 
 take a csv file as input, create transactions for each line of the file from user's address
 
